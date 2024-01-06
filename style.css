@@ -1,0 +1,59 @@
+body {
+	padding: 0;
+	margin: 0;
+	background-image: url(img/bg1.jpg);
+	background-size: cover;
+	font-family: sans-serif;
+}
+
+h2	{
+	color: #fff;
+}
+
+h4 {
+    font-size: 15pt;
+}
+.login {
+	padding: 2em;
+	margin: 3em auto;
+	width: 18em;
+    background: #fff;
+	border-radius: 3px;
+}
+
+label {
+    font-size: 10pt;
+    color: #000;
+}
+
+input[type="text"],
+input[TYPE="password"],
+textarea {
+    padding: 8px;
+    width: 100%;
+    background: #efef;
+    border: 0;
+    font-size: 10pt;
+    margin: 6px 0px;
+}
+
+.tombol {
+    color: #fff;
+    border: 0;
+    padding: 5px 8px;
+    margin: 20px 0px;
+}
+
+.header {
+    background-image: url(img/bg1.jpg);
+    background-size: cover;
+    padding: 70px 10px;
+    color: white;
+    font-size: 20px;
+    border-radius: 15px 15px 15px 15px;
+}
+
+.header p {
+    font-size: x-small;
+}
+
